@@ -20,6 +20,7 @@ For a simple local validation just execute:
 (You just need to have installed jdk11)
 
 But also I've set up a GitHub action gradle workflow, that means, on every single commit a pipeline will execute all the tests you create!
+The good part here: it's using laboratory OS (ubuntu 22.04 and the OpenJDK 11.0.17(from Terumin))
 
 ## 🤔 Areas to improve
 
