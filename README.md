@@ -2,7 +2,7 @@
 To my dear classmates 💖,
 
 I've created this repo for testing our applications easily.
-You can [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) this repo into your **private one** and work from there, you can add more tests, change the structure or do whatever you want!
+You can [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) this repo into your ⚠️ **private one** ⚠️ and work from there, you can add more tests, change the structure or do whatever you want!
 But also, you can just git clone it and work in local. (Please don't 🫠)
 
 I've created two different modules, so you can start from there but, please, keep in mind this is not the path the teachers want: You will need to copy JUST the .java to the folder you will submit.
@@ -20,6 +20,11 @@ For a simple local validation just execute:
 (You just need to have installed jdk11)
 
 But also I've set up a GitHub action gradle workflow, that means, on every single commit a pipeline will execute all the tests you create!
+
+## 🤔 Areas to improve
+
+- For sure this verification is too simple, there is not network hops but at least it's something.
+- It's not java agnostic (yet)
 
 
 Any feedback is more than welcome, PRs too!
