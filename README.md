@@ -6,8 +6,8 @@ You can fork this repo into your **private one** and work from there, you can ad
 
 I've created two different modules, so you can start from there but, please, keep in mind this is not the path the teachers want: You will need to copy JUST the .java to the folder you will submit.
 
-[updcli](client/src/main/java/udpcli.java) where your client application starts.
-[updser](server/src/main/java/udpser.java) where your client application starts.
+- [updcli](client/src/main/java/udpcli.java) is where your client application starts.
+- [updser](server/src/main/java/udpser.java) is where your client application starts.
 
 ## How to run
 
