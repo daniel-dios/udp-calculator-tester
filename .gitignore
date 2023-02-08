@@ -60,3 +60,5 @@ gradle/wrapper/dists
 .java-version
 
 .DS_Store
+/client/build/
+/server/build/
