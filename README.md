@@ -2,8 +2,8 @@
 To my dear classmates 💖,
 
 I've created this repo for testing our applications easily.
-You can [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) this repo into your ⚠️ **private one** ⚠️ and work from there, you can add more tests, change the structure or do whatever you want!
-But also, you can just git clone it and work in local. (Please don't 🫠)
+You can clone this repo and start from there, copy the files or do whatever!
+Bear in mind if you fork it you will open a **public repo**.
 
 I've created two different modules, so you can start from there but, please, keep in mind this is not the path the teachers want: You will need to copy JUST the .java to the folder you will submit.
 
