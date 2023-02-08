@@ -14,7 +14,7 @@ public class udpcli {
         // TODO add your verifications here
 
         // TODO add your logic here
-        final var responseFromServer = "3";
+        final var responseFromServer = "6";
 
         return responseFromServer;
     }
