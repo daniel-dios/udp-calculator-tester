@@ -1,2 +1,2 @@
 # upd-calculator-tester
-For my dear class mates.
+For my dear classmates.
