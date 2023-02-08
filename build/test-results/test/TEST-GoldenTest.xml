@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GoldenTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-08T15:10:52" hostname="Daniel-Dios.local" time="15.067">
+  <properties/>
+  <testcase name="shouldSpeakEachOtherInLocalHost()" classname="GoldenTest" time="15.067"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
