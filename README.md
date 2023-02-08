@@ -4,6 +4,7 @@ To my dear classmates 💖,
 I've created this repo for testing our applications easily.
 You can clone this repo and start from there, copy the files or do whatever!
 Bear in mind if you fork it you will open a **public repo**.
+My suggestion is to open a private one and upload all this files!
 
 I've created two different modules, so you can start from there but, please, keep in mind this is not the path the teachers want: You will need to copy JUST the .java to the folder you will submit.
 
