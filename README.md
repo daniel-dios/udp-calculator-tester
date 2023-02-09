@@ -40,4 +40,10 @@ Ship them.
 
 
 Any feedback is more than welcome, PRs too!
+
 Thanks 🤓
+
+[Check the requirements here](REQUIREMENTS.md)
+
+![image](img/1.png)
+![image](img/2.png)
