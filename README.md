@@ -33,9 +33,8 @@ The good part here: it's using laboratory OS (ubuntu 22.04 and the OpenJDK 11.0.
 
 ## ✉️ What do I need to submit?
 
-Copy all your java classes, packages, etc, inside server/src/main/java and client/src/main/java.
-And validate everything is fine: `javac udpser` and `javac udpcli`.
-Ship them.
+You just need to generate your folder with `./generate_submit.sh`.
+Then, you need to rename it with your id and ".zip" it.
 
 ## 🤔 Areas to improve
 
