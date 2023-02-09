@@ -5,6 +5,7 @@ To my dear classmates 💖,
 
 This repository is to you not to start from the scratch BUT bear in mind this is not an official tool for validation.
 Your teachers and other classmates WON'T use this tool for validation.
+TRY THIS ON YOUR OWN!
 
 ## 🫠What this repo is trying to do?
 
@@ -33,8 +34,14 @@ The good part here: it's using laboratory OS (ubuntu 22.04 and the OpenJDK 11.0.
 
 ## ✉️ What do I need to submit?
 
-You just need to generate your folder with `./generate_submit.sh`.
-Then, you need to rename it with your id and ".zip" it.
+[This script](generate_submit.sh) will copy all the files (recursively) from client/server paths and ".zip" them.
+Please rename the file with your ID or run with your ID as parameter (it will generate the file with that name).
+
+`./generate_submit.sh`
+
+`./generate_submit.sh my-id`
+
+BUT PLEASE DON'T YOLO: unzip and try it out the times you consider.
 
 ## 🤔 Areas to improve
 
