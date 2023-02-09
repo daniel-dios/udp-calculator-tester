@@ -1,13 +1,17 @@
 # upd-calculator-tester
 To my dear classmates 💖,
 
-I've created this repo for testing our applications easily. You can clone this repo and start from there, copy the files or do whatever!
-Bear in mind if you fork it you will open a **public repo**. My suggestion is to open a private one and upload all this files!
-
 ## ⚠️BIG DISCLAIMER HERE
 
 This repository is to you not to start from the scratch BUT bear in mind this is not an official tool for validation.
 Your teachers and other classmates WON'T use this tool for validation.
+
+## 🫠What this repo is trying to do?
+
+![how to test](img/img.png)
+
+I've created this repo for testing our applications easily. You can clone this repo and start from there, copy the files or do whatever!
+Bear in mind if you fork it you will open a **public repo**. My suggestion is to open a private one and upload all this files!
 
 I've created two different modules, so you can start from there but, please, keep in mind this is not the path the teachers want: 
 You will need to copy JUST the .java to the folder you will submit.
